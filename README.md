@@ -1,5 +1,5 @@
-# SomeBest-Programming-Wallpapers
-SomeBest-Programming-Wallpapers
+# Cool-Programming-Wallpapers
+
 ![](/Dolivelife.jpg)
 [Image]https://w.wallhaven.cc/full/49/wallhaven-493lox.jpg
 ![](/I'mNaN.png)
@@ -21,7 +21,6 @@ SomeBest-Programming-Wallpapers
 [Image](https://w.wallhaven.cc/full/ne/wallhaven-neow88.png)
 ![](/sudo.jpg)
 [Image](https://w.wallhaven.cc/full/5d/wallhaven-5d13x7.jpg)
-![](/itension.release.png)
+![](/tension.release.png)
 [Image](https://w.wallhaven.cc/full/0q/wallhaven-0qvyxd.png)
-
 
