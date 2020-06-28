@@ -16,7 +16,7 @@
 
 ![Image](https://w.wallhaven.cc/full/j5/wallhaven-j5zoop.jpg)
 
-!Image](https://w.wallhaven.cc/full/ne/wallhaven-neow88.png)
+![Image](https://w.wallhaven.cc/full/ne/wallhaven-neow88.png)
 
 ![Image](https://w.wallhaven.cc/full/5d/wallhaven-5d13x7.jpg)
 
