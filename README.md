@@ -1,6 +1,6 @@
 # Cool-Programming-Wallpapers
 
-![Image]https://w.wallhaven.cc/full/49/wallhaven-493lox.jpg)
+![Image](https://w.wallhaven.cc/full/49/wallhaven-493lox.jpg)
 
 ![Image](https://w.wallhaven.cc/full/xl/wallhaven-xlg3po.png)
 
