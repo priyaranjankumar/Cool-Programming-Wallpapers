@@ -1,5 +1,14 @@
 # Cool-Programming-Wallpapers
 
+#Download Using Curl or simply by visiting the webpage.
+
+* Fork or create the downloadlinks.txt file then in the same direcory open the terminal
+* In the shell enter this command
+``
+xargs -n 1 curl -O < downloadlinks.txt
+
+``
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=priyaranjankumar.SomeBest-Programming-Wallpapers)
 
 ![Image](https://w.wallhaven.cc/full/49/wallhaven-493lox.jpg)
