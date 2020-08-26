@@ -9,7 +9,7 @@
 xargs -n 1 curl -O < downloadlinks.txt
 `
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=priyaranjankumar.SomeBest-Programming-Wallpapers)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=priyaranjankumar.SomeBest-Programming-Wallpapers)
 
 ![Image](https://w.wallhaven.cc/full/49/wallhaven-493lox.jpg)
 
